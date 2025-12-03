@@ -4,6 +4,7 @@
 [![Pygame](https://img.shields.io/badge/pygame-2.5+-green.svg)](https://www.pygame.org/)
 [![Boot.dev Course](https://img.shields.io/badge/course-boot.dev-orange.svg)](https://www.boot.dev/courses/build-asteroids-python)
 [![Game Dev](https://img.shields.io/badge/category-game_dev-purple.svg)](https://github.com/topics/game-development)
+[![Ask DeepWiki](https://deepwiki.com/badge.svg)](https://deepwiki.com/badge-maker?url=https%3A%2F%2Fdeepwiki.com%2Fanabe-apereira%2Fasteroids-game)
 
 Projeto do jogo **Asteroids** desenvolvido em **Python** com **Pygame**, baseado no curso:
 
