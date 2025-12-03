@@ -1,6 +1,9 @@
 # 🛰️ Asteroids Game em Python
 
-[![Python 3.9+](https://img.shields.io/badge/python-3.9+-blue.svg)](https://www.python.org/downloads/)
+[![Python 3.12+](https://img.shields.io/badge/python-3.12+-blue.svg)](https://www.python.org/downloads/)
+[![Pygame](https://img.shields.io/badge/pygame-2.5+-green.svg)](https://www.pygame.org/)
+[![Boot.dev Course](https://img.shields.io/badge/course-boot.dev-orange.svg)](https://www.boot.dev/courses/build-asteroids-python)
+[![Game Dev](https://img.shields.io/badge/category-game_dev-purple.svg)](https://github.com/topics/game-development)
 
 Projeto do jogo **Asteroids** desenvolvido em **Python** com **Pygame**, baseado no curso:
 
